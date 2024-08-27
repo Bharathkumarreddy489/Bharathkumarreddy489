@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Python ,SQL and Data Visualization Projects**
 
-- 👨‍💻 All of my projects are available at [https://bharathkumarreddy47.wixsite.com/m](https://bharathkumarreddy47.wixsite.com/m)
+- 👨‍💻 All of my projects are available at [https://bharathkumarreddy47.wixsite.com/mysite](https://bharathkumarreddy47.wixsite.com/mysite)
 
 - 📫 How to reach me **bharathkumarreddymadireddy044@gmail.com**
 
