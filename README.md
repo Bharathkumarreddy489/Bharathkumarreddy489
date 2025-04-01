@@ -2,19 +2,18 @@
     <img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="MasterHead" width="1000" height="350">
 </a>
 
-<h1 align="center">Hi 👋, I'm Madireddy Bharath Kumar Reddy</h1>
+<h1 align="center">Hi 👋, I'm Maddie</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumarreddy489&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumarreddy489" /> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bharath489" target="blank">
+  <a href="https://www.linkedin.com/in/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
 </p>
 
-- 🔭 I’m currently working as a **Data Science Intern at Meritshot**
 
 - 🌱 I’m currently learning **Data Science Concepts**
 
@@ -22,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharathkumarreddy47.wixsite.com/mysite](https://bharathkumarreddy47.wixsite.com/mysite)
 
-- 📫 How to reach me **bharathkumarreddymadireddy044@gmail.com**
+- 📫 How to reach me **ybin1603@gmail.com**
 
 - ⚡ Fun fact **Did you know? The term "data scientist" was only coined in 2008, yet it's now considered one of the most desirable jobs in tech. The world of data evolves rapidly, and it's exciting to be part of a field that shapes the future! ---**
 
