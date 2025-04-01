@@ -15,7 +15,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Science Concepts**
+- 🌱  **Data Science Enthusiast**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Python ,SQL and Data Visualization Projects**
 
