@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumarreddy489&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumarreddy489" /> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="blank">
+  <a href="https://www.linked" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Python ,SQL and Data Visualization Projects**
 
-- 👨‍💻 All of my projects are available at [https://bharathkumarreddy47.wixsite.com/mysite](https://bharathkumarreddy47.wixsite.com/mysite)
+- 👨‍💻 All of my projects are available at [https:)
 
 - 📫 How to reach me **ybin1603@gmail.com**
 
